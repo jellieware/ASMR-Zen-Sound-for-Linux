@@ -4,6 +4,6 @@ A simple terminal script that generates zen like sound
 
 Dont forget to install sox first:
 <br><br>
-apt-get install sox
+"apt-get install sox"
 <br><br>
 To exit sinply press: "q"
