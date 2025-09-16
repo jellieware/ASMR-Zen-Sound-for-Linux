@@ -8,10 +8,3 @@ Dont forget to install sox first:
 <br><br>
 To exit sinply press: "q"
 <br><br>
-Audio Preview:
-<br><br>
-
-      <audio controls>
-          <source src="http://jellieware.rf.gd/zen.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
