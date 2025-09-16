@@ -6,5 +6,5 @@ Dont forget to install sox first:
 <br><br>
 "apt-get install sox"
 <br><br>
-To exit sinply press: "q"
+To exit simply press: "q"
 <br><br>
