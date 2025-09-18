@@ -1,4 +1,4 @@
-# Alchemical-Zen-Sound-for-Linux
+# ASMR-Zen-Sound-for-Linux
 A simple terminal script that generates zen like sound
 <br><br>
 
