@@ -1,7 +1,7 @@
 
 
 echo "Press 'q' to exit zen generator."
-play -q "water.flac" repeat 1000000000 & play -q "rainx.flac" repeat 1000000000 & play -q "/skiesx.flac" repeat 1000000000 &
+play -q "water.flac" repeat 1000000000 & play -q "rainx.flac" repeat 1000000000 & play -q "skiesx.flac" repeat 1000000000 &
 tibetan=0
 taiko=0
 while true; do
