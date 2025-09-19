@@ -19,7 +19,7 @@ play -q "$bowls" &
 tibetan=0
 fi
 ((taiko++))
-if [[ $taiko -gt 1 ]]; then
+if [[ $taiko -gt 0 ]]; then
 hits=$(( (RANDOM % 7) + 1 ))
 for (( k=1; k<=$hits; k++ )); do
 drums=$(find /bamboo -type f | shuf -n 1)        
